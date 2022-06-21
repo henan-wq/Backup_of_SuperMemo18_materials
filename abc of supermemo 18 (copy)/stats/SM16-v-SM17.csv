@@ -1,2 +1,5 @@
 Date, Element No, Used interval, SM16 Interval (new), SM17 Interval (new), SM17/SM16 Interval ratio, R (SM16), R (SM17)(exp), R (SM17), Grade, Success, abs RM16, abs RM17 (expected), abs RM17 (predicted), abs R-Metric, sqr R-Metric, Title,
 Jun 20 2022 00:29:42,77,1,2,9,4.54,0.975,0.999,0.999,3,1,0.0246,0.0006,0.0006,0.024,0.0006,What do you need SuperMemo for?
+Jun 21 2022 14:17:10,51,1,2,5,2.49,0.978,0.959,0.959,4,1,0.0218,0.0407,0.0407,-0.0189,-0.0012,Child: 2022:06:20 00:25:42: ABC of SuperMemo 18
+Jun 21 2022 14:17:31,53,1,2,29,14.39,0.98,0.998,0.998,5,1,0.0197,0.002,0.002,0.0177,0.0004,You can import many articles from [...](program) if you press Ctrl+Shift+A
+Jun 21 2022 14:21:42,69,1,2,30,15.13,0.982,0.998,0.997,5,1,0.018,0.0019,0.0026,0.0154,0.0003,After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut)
