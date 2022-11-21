@@ -1,23 +1,91 @@
 Date, Element No, Used interval, SM16 Interval (new), SM17 Interval (new), SM17/SM16 Interval ratio, R (SM16), R (SM17)(exp), R (SM17), Grade, Success, abs RM16, abs RM17 (expected), abs RM17 (predicted), abs R-Metric, sqr R-Metric, Title,
-Jun 20 2022 00:29:42,77,1,2,9,4.54,0.975,0.999,0.999,3,1,0.0246,0.0006,0.0006,0.024,0.0006,What do you need SuperMemo for?
-Jun 21 2022 14:17:10,51,1,2,5,2.49,0.978,0.959,0.959,4,1,0.0218,0.0407,0.0407,-0.0189,-0.0012,Child: 2022:06:20 00:25:42: ABC of SuperMemo 18
-Jun 21 2022 14:17:31,53,1,2,29,14.39,0.98,0.998,0.998,5,1,0.0197,0.002,0.002,0.0177,0.0004,You can import many articles from [...](program) if you press Ctrl+Shift+A
-Jun 21 2022 14:21:42,69,1,2,30,15.13,0.982,0.998,0.997,5,1,0.018,0.0019,0.0026,0.0154,0.0003,After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut)
-Jun 22 2022 19:17:48,8,2,5,38,7.66,0.967,0.991,0.991,5,1,0.033,0.0087,0.0089,0.0242,0.001,You only need 2 key combinations: [.](shortcut) - to add new questions and answers (Add .
-Jun 22 2022 19:18:08,32,2,5,41,8.18,0.969,0.993,0.994,5,1,0.0309,0.0073,0.0063,0.0246,0.0009,You return to the previously visited pages with [.](shortcut) Hint: The same key combination .
-Jun 22 2022 19:18:26,10,2,3,58,19.45,0.971,0.991,0.993,3,1,0.0291,0.0087,0.0067,0.0223,0.0008,Repetition is the key weapon against [...]
-Jun 22 2022 19:19:06,30,2,3,34,11.27,0.972,0.994,0.995,3,1,0.0275,0.0059,0.0054,0.0222,0.0007,To import a web article to SuperMemo: . In [.](browser or SuperMemo?)_ copy the selected text . In SuperMemo_ use  (Ctrl+N)
-Jun 22 2022 19:19:25,57,2,5,12,2.31,0.974,0.941,0.941,5,1,0.0262,0.0592,0.0592,-0.033,-0.0028,Child: 2022:06:20 11:40:49: ABC of SuperMemo 18
-Jun 22 2022 19:19:50,29,2,4,22,5.59,0.975,0.994,0.995,4,1,0.0251,0.006,0.0054,0.0197,0.0006,You can use [.](option/shortcut) to copy your learning material to some location on your hard disk (for back-up purposes)
-Jun 22 2022 19:20:11,5,2,4,28,6.93,0.976,0.993,0.994,4,1,0.0241,0.0069,0.0056,0.0185,0.0005,To dismiss a page/element that you do not want to learn_ press [.](shortcut)
-Jun 22 2022 19:20:50,54,2,3,52,17.32,0.977,0.994,0.995,3,1,0.0233,0.0058,0.0052,0.018,0.0005,You can import many articles from Internet Explorer if you use [.](option/shortcut)
-Jun 22 2022 19:21:06,39,2,4,28,7.09,0.978,0.993,0.994,4,1,0.0225,0.007,0.0056,0.0169,0.0005,Repetitio mater studiorum est
-Jun 22 2022 19:21:21,37,2,5,62,12.44,0.978,0.993,0.994,5,1,0.0218,0.0073,0.0056,0.0162,0.0004,If you make all your repetitions every day_ SuperMemo will make sure you remember ...
-Jun 22 2022 19:21:35,33,2,5,38,7.55,0.979,0.993,0.994,5,1,0.0212,0.0073,0.0056,0.0156,0.0004,You can return to the previously visited pages by clicking [.](button equivalent to pressing Alt+Left arrow)
-Jun 22 2022 19:22:03,47,2,4,58,14.62,0.979,0.994,0.995,4,1,0.0206,0.0059,0.0052,0.0154,0.0004,To import a web article to SuperMemo: copy the selected text in your web browser (e.g. ...
-Jun 22 2022 19:22:41,40,2,3,3,0.89,0.925,0.994,0.995,1,0,0.9254,0.9942,0.9948,-0.0694,-0.1333,To create a cloze question_ select [...](which portion of the text) with the mouse or keyboard_ and press Alt+Z
-Jun 24 2022 14:44:58,82,3,7,5,0.75,0.901,0.924,0.935,4,1,0.0993,0.0765,0.0652,0.0341,0.0056,How can you review your learning material in a SuperMemo collection?
-Jun 24 2022 14:46:50,55,5,1,2,1.53,0.668,0.885,0.925,1,0,0.6683,0.8854,0.9247,-0.2565,-0.4086,How can you always bring up the Question of the Day dialog?
-Jun 24 2022 14:47:14,74,3,1,1,1,0.784,0.91,0.949,2,0,0.7836,0.91,0.9492,-0.1657,-0.2871,Child: 2022:06:21 00:51:43: ABC of SuperMemo 18
-Jun 24 2022 14:47:47,48,4,10,5,0.51,0.721,0.864,0.934,3,1,0.2794,0.1356,0.066,0.2135,0.0737,To import a web article to SuperMemo: copy the selected text in your web browser press ...
-Jun 24 2022 14:48:10,42,4,14,13,0.9,0.719,0.836,0.921,4,1,0.2813,0.1644,0.0794,0.2019,0.0728,When does a repetition occur?
+Nov 16 2022 10:38:39,64,2,2,2,1.22,0.899,0.948,0.948,2,0,0.8986,0.9484,0.9484,-0.0499,-0.0921,What do you need SuperMemo for?  First: 你需要SuperMemo做什么？
+Nov 16 2022 11:12:47,29,1,2,3,1.34,0.945,0.983,0.986,4,1,0.0548,0.0171,0.0144,0.0404,0.0028,You can use [.](option/shortcut) to copy your learning material to some location on your hard disk (for back-up purposes)
+Nov 16 2022 11:15:01,25,2,5,5,1.03,0.889,0.937,0.948,4,1,0.1113,0.0633,0.0515,0.0598,0.0097,Remember: After you choose Learn you should go through all your material scheduled for ...
+Nov 16 2022 11:15:35,11,2,5,10,1.92,0.885,0.937,0.948,4,1,0.1155,0.0635,0.0517,0.0638,0.0107,You only need two key combinations: Alt+A - Add new [.](shortcut) - make repetitions of .
+Nov 17 2022 18:39:43,78,2,4,5,1.21,0.881,0.939,0.951,3,1,0.1193,0.0612,0.0494,0.0699,0.0118,What is the name of a single piece of knowledge stored in SuperMemo?
+Nov 17 2022 18:40:54,10,3,8,5,0.63,0.835,0.89,0.75,4,1,0.1653,0.1096,0.2502,-0.0849,-0.0353,Repetition is the key weapon against [...]
+Nov 17 2022 18:44:03,54,1,2,5,2.68,0.941,0.961,0.793,3,1,0.0586,0.0388,0.2069,-0.1483,-0.0394,You can import many articles from Internet Explorer if you use [.](option/shortcut)
+Nov 17 2022 19:01:58,22,3,2,1,0.5,0.813,0.888,0.748,2,0,0.8134,0.8878,0.7481,0.0652,0.1018,你用SuperMemo学习的 任何事/一切 都将返回到你身边，为了重复练习。每一天，你应该选择 【.】（开始重复练习的按钮的名名称）按钮. Everything you learn with SuperMemo will come back to you for repetition. Every day_ you should select .
+Nov 17 2022 19:02:24,37,2,5,7,1.43,0.869,0.916,0.765,4,1,0.1313,0.0839,0.2345,-0.1032,-0.0378,If you make all your repetitions every day_ SuperMemo will make sure you remember ...
+Nov 17 2022 19:03:05,69,1,2,4,2.17,0.931,0.969,0.798,4,1,0.0692,0.0309,0.202,-0.1328,-0.036,After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut)
+Nov 17 2022 20:23:40,49,1,2,1,0.73,0.93,0.952,0.788,4,1,0.0704,0.048,0.2125,-0.1421,-0.0402,To import a web article to SuperMemo:. In your web browser_ copy the selected text . In [.](browser or SuperMemo?)_ use  (Ctrl+N)
+Nov 17 2022 20:29:03,38,2,1,1,1.23,0.862,0.913,0.763,2,0,0.8621,0.9127,0.7634,0.0987,0.1604,SuperMemo will make sure you remember 95% of the learned material as long as you [.].
+Nov 17 2022 20:30:46,47,1,3,2,0.74,0.927,0.95,0.787,5,1,0.0725,0.0496,0.2135,-0.1409,-0.0403,To import a web article to SuperMemo: copy the selected text in your web browser (e.g. ...
+Nov 17 2022 20:31:31,8,3,10,11,1.06,0.795,0.88,0.743,5,1,0.2047,0.1199,0.2565,-0.0518,-0.0239,You only need 2 key combinations: [.](shortcut) - to add new questions and answers (Add .
+Nov 17 2022 20:32:08,75,3,9,10,1.1,0.793,0.879,0.743,4,1,0.207,0.121,0.2572,-0.0502,-0.0233,You only need 2 key combinations: . Alt+A - add new questions and answers (Add new) . Ctrl+L - to [.] of the learned material (Learn)
+Nov 18 2022 10:02:23,77,3,6,6,0.94,0.791,0.923,0.77,3,1,0.2092,0.0772,0.2304,-0.0212,-0.0093,How can you make sure that you remember some fact?
+Nov 18 2022 10:03:53,22,1,2,3,1.46,0.938,0.936,0.936,5,1,0.0616,0.0639,0.0639,-0.0023,-0.0003,你用SuperMemo学习的 任何事/一切 都将返回到你身边，为了重复练习。每一天，你应该选择 【.】（开始重复练习的按钮的名名称）按钮. Everything you learn with SuperMemo will come back to you for repetition. Every day_ you should select .
+Nov 18 2022 10:04:20,64,2,4,6,1.42,0.889,0.812,0.822,4,1,0.1113,0.1878,0.1783,-0.067,-0.0194,What do you need SuperMemo for?  First: 你需要SuperMemo做什么？
+Nov 18 2022 10:05:12,32,4,11,10,0.88,0.809,0.863,0.924,4,1,0.1915,0.1368,0.076,0.1155,0.0309,You return to the previously visited pages with [.](shortcut) Hint: The same key combination .
+Nov 18 2022 10:05:56,9,4,11,8,0.77,0.823,0.854,0.919,4,1,0.1766,0.1463,0.0811,0.0955,0.0246,You only need 2 key combinations: Alt+A - to [.] new questions and answers Ctrl+L - make repetitions
+Nov 18 2022 10:15:42,24,4,14,8,0.58,0.836,0.848,0.916,5,1,0.1644,0.1523,0.0843,0.0801,0.0199,Exemplary repetition
+Nov 18 2022 10:17:59,39,3,7,4,0.63,0.879,0.879,0.932,4,1,0.1213,0.1212,0.0676,0.0537,0.0101,Repetitio mater studiorum est
+Nov 18 2022 10:21:09,38,1,2,2,0.84,0.958,0.941,0.961,3,1,0.0421,0.0591,0.0394,0.0027,0.0002,SuperMemo will make sure you remember 95% of the learned material as long as you [.].
+Nov 19 2022 00:04:51,98,1,2,1,0.73,0.96,0.983,0.603,3,1,0.0401,0.0171,0.3975,-0.3574,-0.1564,一個完整的句子，必須能夠表達完整的意思。  這至少需要[.]個部分：主部（subject）和述部（predicate）。
+Nov 19 2022 00:08:11,42,5,13,9,0.66,0.832,0.827,0.905,4,1,0.168,0.1731,0.0955,0.0725,0.0191,When does a repetition occur?
+Nov 19 2022 08:58:43,100,1,2,3,1.53,0.964,0.966,0.644,4,1,0.0363,0.0338,0.3558,-0.3195,-0.1253,一個完整的句子，必須能夠表達完整的意思。  這至少需要兩個部分：主部（subject）和[.]。
+Nov 19 2022 08:59:43,40,3,6,13,2.23,0.898,0.898,0.943,4,1,0.1017,0.1024,0.0574,0.0442,0.007,To create a cloze question_ select [...](which portion of the text) with the mouse or keyboard_ and press Alt+Z
+Nov 19 2022 09:00:08,99,1,2,7,3.49,0.965,0.967,0.64,4,1,0.0352,0.0326,0.36,-0.3248,-0.1284,一個完整的句子，必須能夠表達完整的意思。  這至少需要兩個部分：[.]和述部（predicate）。
+Nov 19 2022 09:03:41,76,5,2,1,0.5,0.775,0.878,0.932,1,0,0.7755,0.8779,0.9319,-0.1564,-0.2671,What main study technique does SuperMemo use to make sure you never forget your knowledge?
+Nov 19 2022 09:04:15,102,1,2,1,0.5,0.948,0.968,0.691,2,0,0.9476,0.9684,0.6905,0.2571,0.4212,主部，是[.]這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 19 2022 09:04:32,106,1,2,2,1.19,0.947,0.967,0.694,3,1,0.0527,0.0333,0.3061,-0.2534,-0.0909,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任[.]的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 19 2022 09:04:46,104,1,2,3,1.27,0.947,0.967,0.694,3,1,0.053,0.0333,0.306,-0.253,-0.0908,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「[.]」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 19 2022 09:05:39,91,1,2,2,1.04,0.947,0.959,0.711,3,1,0.0533,0.0411,0.2891,-0.2358,-0.0807,Traditional linear reading is highly [.].  This comes from the fact that various pieces of the text are of various importance.  Some should be skipped.  Others should be read .
+Nov 19 2022 09:07:10,29,3,6,18,2.99,0.89,0.986,0.986,4,1,0.1105,0.0138,0.0138,0.0967,0.012,You can use [.](option/shortcut) to copy your learning material to some location on your hard disk (for back-up purposes)
+Nov 19 2022 09:08:06,70,3,7,6,0.85,0.852,0.896,0.927,4,1,0.1479,0.1042,0.0732,0.0747,0.0165,After you create a cloze question you can view it by clicking the button [.](which one) or pressing Alt+Left arrow
+Nov 19 2022 09:11:03,48,3,10,11,1.09,0.855,0.88,0.941,5,1,0.1446,0.1204,0.0588,0.0857,0.0174,To import a web article to SuperMemo: copy the selected text in your web browser press ...
+Nov 19 2022 09:11:43,50,1,2,3,1.64,0.949,0.959,0.712,4,1,0.0509,0.0415,0.2883,-0.2374,-0.0805,Traditional linear reading is highly inefficient.  This comes from the fact that [.] pieces of the text are of various importance.  Some should be skipped.  Others should be .
+Nov 19 2022 09:12:52,47,2,5,41,8.28,0.954,0.994,0.995,4,1,0.0457,0.0056,0.0055,0.0403,0.0021,To import a web article to SuperMemo: copy the selected text in your web browser (e.g. ...
+Nov 19 2022 09:14:08,21,5,17,11,0.67,0.793,0.804,0.906,5,1,0.2074,0.1959,0.0941,0.1133,0.0341,SuperMemo will often ask you to fill the missing part of a sentence. For example: . [.] is the key weapon against forgetting. Hint: Try to remember what is the key weapon .
+Nov 19 2022 09:14:30,49,2,6,26,4.3,0.925,0.994,0.995,5,1,0.0751,0.0056,0.0054,0.0697,0.0056,To import a web article to SuperMemo:. In your web browser_ copy the selected text . In [.](browser or SuperMemo?)_ use  (Ctrl+N)
+Nov 20 2022 16:06:06,175,1,2,5,2.38,0.954,0.959,0.712,3,1,0.0455,0.0415,0.2883,-0.2427,-0.081,:  授與動詞後面第一個受詞是授與的[.]、第二個受詞是授與的東西。
+Nov 20 2022 16:09:14,178,1,2,3,1.26,0.954,0.959,0.711,3,1,0.0456,0.0413,0.2887,-0.2431,-0.0813,: 看图右，如果「對象」沒有放在第一個受詞的位置，就會變成 S + V + O 的句型，如下： [.].
+Nov 20 2022 16:10:27,107,2,2,1,0.69,0.899,0.908,0.87,2,0,0.8988,0.9084,0.8697,0.0292,0.0516,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以[.]為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:10:38,73,2,5,5,1.05,0.901,0.904,0.953,4,1,0.0992,0.0959,0.0474,0.0518,0.0076,主部，是介紹這個句子主詞的部分，以[.]為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:10:58,176,1,2,7,3.42,0.949,0.957,0.716,4,1,0.0511,0.0432,0.2843,-0.2332,-0.0782,: （看图右）動詞 gave 後面有兩個受詞：第一個受詞 him 是「[.]」、第二個受詞 a jar of heney 是「給的東西」。
+Nov 20 2022 16:12:45,93,2,5,8,1.61,0.902,0.897,0.922,4,1,0.098,0.1032,0.0784,0.0195,0.0034,Traditional linear reading is highly inefficient.  This comes from the fact that various pieces of the text are of various importance.  Some should be skipped.  Others should .
+Nov 20 2022 16:13:08,82,3,7,3,0.48,0.86,0.926,0.802,4,1,0.1402,0.0736,0.1981,-0.0579,-0.0196,How can you recover a SuperMemo collection in case its files were damaged?
+Nov 20 2022 16:13:32,102,1,2,1,0.5,0.935,0.872,0.929,2,0,0.9351,0.8722,0.9289,0.0063,0.0117,主部，是[.]這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:14:08,33,6,19,18,0.93,0.701,0.751,0.895,4,1,0.2991,0.249,0.1055,0.1936,0.0783,You can return to the previously visited pages by clicking [.](button equivalent to pressing Alt+Left arrow)
+Nov 20 2022 16:15:19,125,1,2,4,1.82,0.943,0.967,0.687,4,1,0.0573,0.0332,0.3133,-0.256,-0.0949,所謂「限定動詞」，就是會隨人稱、時態的不同而產生變化的動詞（例如主詞是第三人稱單數時，限定動詞的現在式要[.]）。
+Nov 20 2022 16:15:56,51,2,5,5,0.9,0.89,0.895,0.948,4,1,0.1096,0.1049,0.0516,0.058,0.0093,Traditional linear reading is highly inefficient.  This comes from the fact that various pieces of the text are of various importance.  Some should be [.].  Others should be .
+Nov 20 2022 16:16:17,103,2,2,3,1.52,0.879,0.903,0.952,1,0,0.8787,0.9031,0.9521,-0.0734,-0.1344,主部，是介紹這個句子[.]的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:16:27,108,2,5,5,1.04,0.881,0.898,0.955,4,1,0.1192,0.1017,0.0448,0.0744,0.0122,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「[.]」。
+Nov 20 2022 16:16:41,126,1,2,6,3.07,0.939,0.967,0.78,3,1,0.0614,0.0332,0.2205,-0.1591,-0.0449,傳統文法所謂的[.]，指的都是限定動詞。
+Nov 20 2022 16:17:07,124,1,2,1,0.5,0.936,0.967,0.827,2,0,0.9362,0.9668,0.8275,0.1087,0.1918,所謂「限定動詞」，就是會隨人稱、時態的不同而產生變化的動詞（例如主詞是第三人稱單數時，限定動詞的[.]要加 -s）。
+Nov 20 2022 16:17:55,85,3,6,10,1.66,0.824,0.926,0.831,3,1,0.1756,0.0736,0.169,0.0065,0.0023,How can I make sure that a given look of an element is used each time I choose Add New?
+Nov 20 2022 16:18:41,129,1,2,1,0.5,0.935,0.967,0.71,1,0,0.9352,0.9668,0.7104,0.2248,0.3699,至於[.]，傳統文法並不視為動詞看待，而是稱為動狀詞（verbals），包括現在分詞、過去分詞、動名詞、不定詞片語等等。
+Nov 20 2022 16:24:08,16,6,19,11,0.58,0.691,0.667,0.86,5,1,0.3089,0.333,0.1401,0.1688,0.0758,After you finish typing the question_ you can use [...](key) to move to typing the answer
+Nov 20 2022 16:24:24,105,2,6,4,0.71,0.886,0.865,0.941,5,1,0.1142,0.1353,0.0587,0.0555,0.0096,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  [.]，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:24:38,128,1,2,7,3.4,0.941,0.967,0.618,3,1,0.0587,0.0333,0.3815,-0.3229,-0.1421,傳統文法所謂的動詞，指的[.]限定動詞。
+Nov 20 2022 16:24:49,136,1,2,1,0.5,0.939,0.967,0.669,1,0,0.939,0.9667,0.6691,0.2699,0.434,必須要有限定動詞，才能構成一個獨立的句子或是[.]。
+Nov 20 2022 16:25:01,101,2,6,8,1.39,0.883,0.86,0.94,5,1,0.1168,0.1395,0.0604,0.0564,0.01,[.]，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 20 2022 16:25:21,53,4,10,10,1.01,0.787,0.748,0.893,4,1,0.2132,0.2523,0.1068,0.1063,0.034,You can import many articles from [...](program) if you press Ctrl+Shift+A
+Nov 20 2022 16:25:45,177,1,2,1,0.52,0.942,0.935,0.97,4,1,0.058,0.0652,0.0298,0.0282,0.0025,: 請注意：S + V + O + O 的句型，兩個受詞出現的[.]必須是「對象在前、東西在後」，這個順序和中文的說法相同（給「誰」「什麼東西」）。
+Nov 20 2022 16:26:30,38,2,3,4,1.29,0.905,0.858,0.858,4,1,0.0955,0.1424,0.1424,-0.0469,-0.0112,SuperMemo will make sure you remember 95% of the learned material as long as you [.].
+Nov 20 2022 16:26:47,79,4,2,1,0.5,0.765,0.894,0.972,2,0,0.765,0.8942,0.9722,-0.2073,-0.3601,How can you learn the elements stored in SuperMemo?
+Nov 20 2022 16:27:04,76,1,2,4,2.22,0.933,0.871,0.937,3,1,0.0665,0.1287,0.0627,0.0038,0.0005,What main study technique does SuperMemo use to make sure you never forget your knowledge?
+Nov 21 2022 12:43:05,170,2,4,11,2.84,0.875,0.876,0.946,3,1,0.1246,0.1244,0.0542,0.0705,0.0126,:  [.] 句型可以視為 S + V + O 句型的一種衍生。例如：右图。
+Nov 21 2022 12:43:36,12,3,8,5,0.67,0.822,0.791,0.911,4,1,0.1781,0.2094,0.0892,0.0889,0.0238,Traditional [.] reading is highly inefficient.  This comes from the fact that various pieces of the text are of various importance.  Some should be skipped.  Others should be .
+Nov 21 2022 12:43:57,171,2,5,10,2.06,0.879,0.873,0.945,4,1,0.1213,0.1267,0.0551,0.0662,0.0117,:  這個句子的主詞是 the man’s wife 這個[.]。
+Nov 21 2022 12:44:54,109,2,5,3,0.56,0.88,0.945,0.698,4,1,0.1201,0.0553,0.3023,-0.1822,-0.077,How can you always bring up the Question of the Day dialog?
+Nov 21 2022 12:45:15,107,1,2,1,0.5,0.936,0.914,0.832,2,0,0.9361,0.9136,0.8317,0.1044,0.1845,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以[.]為核心，告訴讀者這個主角「怎麼樣」。
+Nov 21 2022 12:45:27,152,2,5,10,1.98,0.88,0.945,0.718,4,1,0.1196,0.0553,0.2819,-0.1623,-0.0652,Child: 2022:11:19 08:54:27: ABC of SuperMemo 18
+Nov 21 2022 12:46:18,86,4,8,16,1.97,0.781,0.906,0.978,3,1,0.2185,0.0942,0.0219,0.1967,0.0473,Child: 2022:11:17 18:38:38: ABC of SuperMemo 18
+Nov 21 2022 12:46:40,136,1,2,1,0.62,0.938,0.914,0.851,3,1,0.0618,0.0855,0.1493,-0.0875,-0.0185,必須要有限定動詞，才能構成一個獨立的句子或是[.]。
+Nov 21 2022 12:47:15,80,5,1,2,1.63,0.694,0.874,0.944,2,0,0.6943,0.8745,0.9444,-0.2501,-0.4099,How can you find answers to all questions asked by users of SuperMemo?
+Nov 21 2022 12:48:22,91,2,3,28,9.37,0.905,0.991,0.993,4,1,0.0955,0.0087,0.007,0.0885,0.0091,Traditional linear reading is highly [.].  This comes from the fact that various pieces of the text are of various importance.  Some should be skipped.  Others should be read .
+Nov 21 2022 12:48:54,137,2,1,1,1,0.858,0.945,0.691,2,0,0.8576,0.9453,0.691,0.1666,0.258,必須要有限定動詞，才能構成[.]或是限定子句。
+Nov 21 2022 12:51:42,25,5,14,48,3.4,0.921,0.984,0.99,5,1,0.0787,0.0163,0.0103,0.0684,0.0061,Remember: After you choose Learn you should go through all your material scheduled for ...
+Nov 21 2022 12:52:08,79,1,2,2,1.17,0.925,0.914,0.757,4,1,0.075,0.0858,0.2431,-0.1681,-0.0535,How can you learn the elements stored in SuperMemo?
+Nov 21 2022 12:52:18,138,2,4,2,0.51,0.858,0.945,0.659,3,1,0.1416,0.0547,0.3414,-0.1998,-0.0965,必須要有限定動詞，才能[.]一個獨立的句子或是限定子句。
+Nov 21 2022 12:52:29,102,1,2,1,0.75,0.929,0.913,0.787,4,1,0.0708,0.0867,0.2132,-0.1425,-0.0405,主部，是[.]這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 21 2022 12:53:35,22,3,6,3,0.55,0.877,0.838,0.838,4,1,0.1234,0.162,0.162,-0.0386,-0.011,你用SuperMemo学习的 任何事/一切 都将返回到你身边，为了重复练习。每一天，你应该选择 【.】（开始重复练习的按钮的名名称）按钮. Everything you learn with SuperMemo will come back to you for repetition. Every day_ you should select .
+Nov 21 2022 12:54:02,98,2,3,33,11.13,0.905,0.987,0.992,4,1,0.0955,0.0125,0.0081,0.0874,0.009,一個完整的句子，必須能夠表達完整的意思。  這至少需要[.]個部分：主部（subject）和述部（predicate）。
+Nov 21 2022 12:55:07,57,5,11,13,1.14,0.716,0.874,0.962,3,1,0.2837,0.1257,0.0378,0.2459,0.079,Child: 2022:11:16 10:32:33: ABC of SuperMemo 18
+Nov 21 2022 12:55:23,127,2,5,4,0.77,0.876,0.945,0.645,4,1,0.1241,0.0549,0.3546,-0.2305,-0.1104,[.]所謂的動詞，指的都是限定動詞。
+Nov 21 2022 12:58:26,92,3,8,4,0.45,0.822,0.785,0.909,4,1,0.178,0.2146,0.0913,0.0866,0.0233,Traditional linear reading is highly inefficient.  This comes from the fact that various pieces of the text are of various importance.  [.] should be skipped.  Others should .
+Nov 21 2022 12:58:48,106,2,5,18,3.62,0.905,0.991,0.993,5,1,0.0955,0.0093,0.0066,0.0889,0.0091,主部，是介紹這個句子主詞的部分，以主詞為核心，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任[.]的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 21 2022 12:58:57,55,3,10,7,0.66,0.824,0.792,0.911,5,1,0.1759,0.2079,0.0886,0.0873,0.0231,主部，是介紹這個句子主詞的部分，以主詞為[.]，告訴讀者這個句子「主角是誰」。  述部，則是句子中擔任敘述工作的部分，以限定動詞（finite verb）為核心，告訴讀者這個主角「怎麼樣」。
+Nov 21 2022 12:59:42,69,4,11,41,3.73,0.855,0.984,0.991,5,1,0.1445,0.0157,0.0086,0.136,0.0208,After you create a cloze question you can view it by clicking the < button or pressing [.](shortcut)
