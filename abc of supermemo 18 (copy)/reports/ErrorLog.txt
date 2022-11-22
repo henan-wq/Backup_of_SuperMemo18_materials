@@ -10,3 +10,4 @@ Nov 16, 2022, 18:16:20:    Error setting a text highlight .. Topic #65: Cloze to
 Nov 16, 2022, 18:16:28:    Error setting a text highlight .. Topic #65: Cloze tools .. Access violation at address 00B07A92 in module 'sm18.exe'. Read of address 00000000 (18.05, Oct 29, 2020)
 Nov 16, 2022, 18:16:29:    Error setting a text highlight .. Topic #65: Cloze tools .. Access violation at address 00B07A92 in module 'sm18.exe'. Read of address 00000000 (18.05, Oct 29, 2020)
 Nov 16, 2022, 18:16:30:    Error setting a text highlight .. Topic #65: Cloze tools .. Access violation at address 00B07A92 in module 'sm18.exe'. Read of address 00000000 (18.05, Oct 29, 2020)
+Nov 22, 2022, 23:27:43:    Errors in imported text file .. Premature element source termination .. Element text: Èý£®S + V + O + O .. (18.05, Oct 29, 2020)
