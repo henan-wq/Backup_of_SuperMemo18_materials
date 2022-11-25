@@ -22,3 +22,4 @@ Nov 24, 2022, 12:11:19:    Cannot load image .. File: c:\supermemo\systems\abc o
 Nov 24, 2022, 12:11:22:    Cannot load image .. File: c:\supermemo\systems\abc of supermemo 18\temp\ImageDownload-El319-Comp1-Full-108.BMP .. Bitmap image is not valid (18.05, Oct 29, 2020)
 Nov 24, 2022, 12:11:27:    Cannot load image .. File: c:\supermemo\systems\abc of supermemo 18\temp\ImageDownload-El319-Comp1-Full-115.BMP .. Bitmap image is not valid (18.05, Oct 29, 2020)
 Nov 24, 2022, 12:11:37:    Cannot load image .. File: c:\supermemo\systems\abc of supermemo 18\temp\ImageDownload-El319-Comp1-Full-21.BMP .. Bitmap image is not valid (18.05, Oct 29, 2020)
+Nov 25, 2022, 13:50:16:    Resetting unused reference fields .. Reference #7: 1 数轴与实数 .. Topic #421: 2022:11:25 13:50:16: #421 (abc of supermemo 18) (18.05, Oct 29, 2020)
