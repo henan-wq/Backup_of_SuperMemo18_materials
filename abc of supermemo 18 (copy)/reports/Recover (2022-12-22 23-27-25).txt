@@ -1,0 +1,143 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222
+   Date: Thursday, December 22, 2022, 11:27:25 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 1,612 element records (ElementInfo.dat)
+Turning on tasklist verification along element data integrity checks
+Verifying integrity of element data (1612 elements in ElementInfo.dat)
+Verifying knowledge tree (1,612 elements in Contents.dat)
+Verifying the priority queue of 1,536 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Recovering registries and filespace references
+Rebuilding Text registry (3685 members in a 3942 member file)
+Rebuilding Template registry (23 members in a 23 member file)
+Rebuilding Font registry (1 members in a 1 member file)
+Rebuilding Reference registry (57 members in a 65 member file)
+Rebuilding Style registry (0 members in a 0 member file)
+Rebuilding Script registry (14 members in a 17 member file)
+Rebuilding Program registry (1 members in a 1 member file)
+Rebuilding Ole registry (0 members in a 0 member file)
+Rebuilding Video registry (0 members in a 0 member file)
+Rebuilding Image registry (12 members in a 44 member file)
+Rebuilding Sound registry (0 members in a 0 member file)
+Rebuilding Tasklist registry (2 members in a 2 member file)
+Rebuilding Concept registry (4 members in a 5 member file)
+Rebuilding Link registry (0 members in a 0 member file)
+Registering components
+Warning! Element count operation on a deleted registry member
+   Registry: image
+   Posit: 17
+   Used by: Topic #1,444: Found in pairs or flocks, and like other yellow-finches feeds mainly on the ground. paris n. 夫妇，对
+Warning! Element count operation on a deleted registry member
+   Registry: image
+   Posit: 17
+   Used by: Topic #1,445: Found in pairs or flocks, and like other yellow-finches feeds mainly on the ground. v. 为某事或某人提供食物或养料 在本句子中：黄雀寻找并食用食物的行为
+Warning! Element count operation on a deleted registry member
+   Registry: image
+   Posit: 17
+   Used by: Topic #1,446: Found in pairs or flocks, and like other yellow-finches feeds mainly on the ground. adv. 主要地，大部分地 在语境中修饰动词feeds
+Transferring templates
+Registering references
+Registering image references
+Registration of links for 0 members in a 0 member file
+Registration of concepts for 4 members in a 5 member file
+Verifying Text registry
+Warning! Registry member not used
+   Text #60: You can return to the previously visited pages by using the Back button at the top of this window. You can also press Alt+Left arrow to obtain the same effect. Conversely, you ...
+Warning! Registry member not used
+   Text #80: Back (available at the top of the window)
+Warning! Registry member not used
+   Text #190: HTML: <P>&nbsp;</P>
+Warning! Registry member not used
+   Text #231: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution
+Warning! Registry member not used
+   Text #509: First_Amendment_inscription.JPG
+Warning! Registry member not used
+   Text #617: https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/First_Amendment_inscription.JPG/220px-First_Amendment_inscription.JPG
+Warning! Registry member not used
+   Text #678: https://upload.wikimedia.org/wikipedia/commons/5/59/First_Amendment_inscription.JPG
+Warning! Registry member not used
+   Text #750: Imported on Nov 24, 2022, 12:46:24
+Warning! Registry member not used
+   Text #751: Image reference for image #43
+9 unused member(s) in the Text registry
+Verifying Font registry
+Verifying Reference registry
+Verifying Ole registry
+Verifying Image registry
+Warning! Registry member not used
+   Image #1: Back (icon)
+Warning! Registry member not used
+   Image #2: Add a new article (icon)
+Warning! Registry member not used
+   Image #6: Add a new article (learnbar)
+Warning! Registry member not used
+   Image #8: Extract (learnbar)
+Warning! Registry member not used
+   Image #9: Extract (icon)
+Warning! Registry member not used
+   Image #10: Cloze (learnbar)
+Warning! Registry member not used
+   Image #11: Cloze (icon)
+Warning! Registry member not used
+   Image #12: Back (navigation bar)
+8 unused member(s) in the Image registry
+Verifying Sound registry
+Verifying Video registry
+Verifying Style registry
+Verifying Script registry
+Warning! Registry member not used
+   Script #1: obsidian://open?vault=%E6%95%B0%E5%AD%A6_%E6%95%99%E8%82%B2_%E8%AE%B0%E5%BF%86&file=Excali ...
+Warning! Registry member not used
+   Script #12: Script: 553.2
+Warning! Registry member not used
+   Script #14: testtest: 300.2
+Warning! Registry member not used
+   Script #16: Script: 437.2
+4 unused member(s) in the Script registry
+Verifying Program registry
+Warning! Registry member not used
+   Binary #1: 普林斯顿微积分读本(修订版)_by_Adrian_Banner)_3557402_(z-lib.org).pdf
+1 unused member(s) in the Program registry
+Verifying Template registry
+Verifying Tasklist registry
+Warning! Registry member not used
+   Tasklist #1: Tasks
+Warning! Registry member not used
+   Tasklist #2: New tasklist
+2 unused member(s) in the Tasklist registry
+Verifying Concept registry
+Verifying Link registry
+Deleting directory: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222\registry\Text_users
+Deleting directory: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222\registry\Reference_users
+Deleting directory: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222\registry\Template_users
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 2082 filespace slots
+Unused filespace slot count: 3
+Checking for empty filespace slots
+Inspecting 3 empty filespace slot(s)
+Verifying repetition history
+Repetition history compressed from 190.359 kB to 188.955 kB
+Deleting temporary folders
+Deleting directory: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222\temp
+The size of remaining temporary files is 156.344 kB
+   These files can be deleted with File : Tools : Garbage
+Removing empty collection directories
+Deleting directory: f:\2021_3_27\all_notes_files\backup_of_supermemo18_materials\abc of supermemo 18 (copy)202212222222\subsets\tmp\
+
+Process completed at 11:27:54 PM in 00:00:28 sec (Thursday, December 22, 2022)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________
