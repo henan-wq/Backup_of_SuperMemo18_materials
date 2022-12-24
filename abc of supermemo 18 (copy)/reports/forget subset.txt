@@ -1,11 +1,11 @@
 SuperMemo Report
    Activity: Operation: forget elements
    Collection: c:\supermemo\systems\abc of supermemo 18
-   Date: Saturday, December 24, 2022, 5:47:26 PM
+   Date: Saturday, December 24, 2022, 9:54:04 PM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
 
-Process completed at 5:47:26 PM in 00:00:00 sec (Saturday, December 24, 2022)
+Process completed at 9:54:04 PM in 00:00:00 sec (Saturday, December 24, 2022)
 
 NO ERRORS (Operation: forget elements)
 
